@@ -8,4 +8,4 @@
 
 ### result
 
-![result](prakt-7/7.png)
+![result](Prakt-7/7.png)
